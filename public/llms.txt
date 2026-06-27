@@ -1,0 +1,10 @@
+# GTA VI Countdown
+
+> Live countdown to Grand Theft Auto VI (Nov 19, 2026), plus curated news, trailers and links.
+
+## Pages
+
+- [Home](/): Live countdown timer, official trailers, and pre-order links for GTA VI.
+- [News](/news): Curated GTA VI news — official announcements, trailer breakdowns, leaks and community theories.
+- [Author](/author): About Chetan Kumar, the developer behind this fan project.
+- [Contact](/contact): Contact form and social links for feedback, tips and collaborations.

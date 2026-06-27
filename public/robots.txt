@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-gta-6-countdown.lovable.app/sitemap.xml
